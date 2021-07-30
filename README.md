@@ -8,7 +8,7 @@
 * My primary coding language: Java
 * Earned Gold badge & 5 star at HackerRank in Java & C++ programming.
 * 3 Star on CodeChef (Max Rating-1634)
-* 🧑‍🎓 Final Year Undergrad Student
+* Final Year Undergrad Student🎓
 
 
 <h3 align="left">Connect with me:</h3>
