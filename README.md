@@ -17,7 +17,7 @@
 <a href="https://www.codechef.com/users/rachita_2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rachita_2000" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rachita_2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rachita_2000" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/_rachita.__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="_rachita.__" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rachita_2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rachita_2000" height="30" width="40" /></a>
+<a href="https://leetcode.com/rachita_goyal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rachita_2000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
