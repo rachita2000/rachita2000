@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rachita Goyal  </h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" width="40">, I'm Rachita Goyal  </h1>
 <h3 align="left">A passionate Java Developer & Competitive Programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachita2000&label=Profile%20views&color=4796d7&style=flat" alt="rachita2000" /> </p>
